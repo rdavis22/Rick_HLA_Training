@@ -1,0 +1,16 @@
+1.      a) Checkout the source code from this GitHub repository (directly onto the lustre filesystem on Cypress). b) Copy the input data files from Box to lustre as well.
+2.      Successfully run the HIBAG R jobs on Cypress using the shell script.
+3.      Modify and add new scripts to do imputation of the HLA-DPB1 locus.
+4.      Commit and push new/updated source code to our GitHub repository.
+
+Completed                Working on
+1)                       2)
+
+Training Modules
+-Carolyn Hurley hla overview_NMDP_popgenetics_partI.pptx
+-An Overview of the KIR Family of Natural Killer Cell Receptors.pptx
+-Parham - 2005 - MHC class I molecules and KIRs in human history, health, and survival.pdf
+-Vukcevic et al. - Imputation of KIR Types from SNP Variation Data.pdf
+-2005 (Hurley) HLA Overview.pdf
+
+ 
