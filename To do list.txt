@@ -7,7 +7,6 @@ Completed                Working on
 1)                       2)
 
 Training Modules
--Vukcevic et al. - Imputation of KIR Types from SNP Variation Data.pdf
 -2005 (Hurley) HLA Overview.pdf
 
  
