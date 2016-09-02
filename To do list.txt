@@ -1,6 +1,6 @@
 1.      a) Checkout the source code from this GitHub repository (directly onto the lustre filesystem on Cypress). b) Copy the input data files from Box to lustre as well.
 2.      Successfully run the HIBAG R jobs on Cypress using the shell script.
-3.      Modify and add new scripts to do imputation of the HLA-DPB1 locus.
+3.      Modify and add new scripts to do imputation of the HLA-DPB1, HLA-DQA1, AABC, and AAPC loci.
 4.      Commit and push new/updated source code to our GitHub repository.
 
 Completed                Working on
