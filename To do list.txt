@@ -9,5 +9,5 @@ Completed                Working on
 Training Modules
 -Done with assigned readings from email! Checkout Canvas website on Tulane's Gibson system for further training modules.
 -Done with this section of the research!
-
+-Working with Navi on basic R and Unix programming
  
